@@ -1,2 +1,2 @@
-# Data-and-It-s-Discontents-Project
-A repository for data and it's discontents
+# cmpu250-project-template
+Template for class project repository for CMPU 250 (Vassar College)
