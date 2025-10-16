@@ -24,12 +24,12 @@ While we have not created any new variable yet, a variable we expect to make in 
 
 # Codebook
 
-a description of all variables you are using, including ones you are creating for this project
-
 |  var label  |  var name  |  type    |  description
 --------------------------------------------------
-|  emotion    |  emotion   |  string  |  Emotions provided by an emotional classifier 
-|             |            |          |  (trained on Crema-D) when applied to the speech accent archive
+|  emotion    |  emotion   |  string  |  Emotions provided by an emotional classifier (trained on Crema-D) when applied to the speech accent archive
+
 |  accent     |  accent    |  string  |  Accent of a singular recording from the speech accent archive
+
 |  age        |  age       |  int     |  Age of the speaker attached to a singular recording in the speech accent archive
+
 |  sex        |  sex       |  string  |  Sex of the speaker attached to a singular recording in the speech accent archive
