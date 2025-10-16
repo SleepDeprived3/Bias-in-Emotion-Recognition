@@ -18,8 +18,6 @@ Ultimately, our exploratory analyses did not require an extensive manipulation o
 
 We have decided to include all of the data from these datasets. While we initially considered excluding Crema-D data that did not include a marked emotion strength, we determined that all emotion examples (regardless of strength) were necessary in order to create a strong emotion classifier. 
 
-While we have not created any new variable yet, a variable we expect to make in the future is the 
-
 -----
 
 # Codebook
